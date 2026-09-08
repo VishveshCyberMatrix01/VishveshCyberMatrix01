@@ -1,5 +1,7 @@
 # 💫 About Me:
-🛡️ Cybersecurity Student<br>🐧 Linux Administration & Server Management<br>🌐 Networking & TCP/IP<br>💻 C & Python Programming/Automation<br>🔥 Check Point, Fortinet & Firewall Management<br>☁️ Cloud Computing & Virtualization<br>🔒 System & Network Security<br>🛠️ Building, Securing & Managing IT Infrastructure<br>🚀 Open Source Enthusiast • Always Learning • Always Improving
+🛡️ Cybersecurity Student & Ethical Hacking | 🤖 AI & AGI Student<br>🤖 Artificial Intelligence & Generative AI<br>
+🧠 AGI Concepts, Reasoning & Intelligent Systems<br>⚙️ AI Automation & Security Engineering<br>
+🐧 Linux Administration & Server Management<br>🌐 Networking & TCP/IP<br>💻 C & Python Programming/Automation<br>🔥 Check Point, Fortinet & Firewall Management<br>☁️ Cloud Computing & Virtualization<br>🔒 System & Network Security<br>🛠️ Building, Securing & Managing IT Infrastructure<br>🚀 Open Source Enthusiast • Always Learning • Always Improving
 
 
 ## 🌐 Socials:
@@ -7,6 +9,7 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VishveshCyberMatrix01&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=VishveshCyberMatrix01&theme=dark&hide_border=false)<br/>
